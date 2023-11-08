@@ -1,0 +1,13 @@
+Use of installed packages
+
+express = backend framework
+bodyparser = process request body
+bcrypt = password encryption 
+cors = cross origin request
+dotenv = environment variables
+gridfs-stream = file uploads
+multer, multer-gridfs-storage = upload files locally
+helmet = request safety
+moragan = login
+jwt = authentication
+mongoose = mongodb access
